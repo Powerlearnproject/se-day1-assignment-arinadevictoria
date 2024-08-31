@@ -6,6 +6,11 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
+Here are three key milestones in the evolution of software engineering:
+
+1968 NATO Conference: The term “software engineering” was coined during this conference, marking the beginning of software engineering as a formal discipline1.
+Introduction of Object-Oriented Programming (OOP): In the 1980s, OOP revolutionized software design by promoting modularity and reusability, making software development more efficient and manageable.
+Agile Methodologies: Emerging in the 1990s, Agile methodologies emphasized flexibility, collaboration, and customer
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
